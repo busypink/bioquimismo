@@ -46,7 +46,7 @@ const arrayBacterias = [
 const arrayRespostas = [];
 let i = 0;
 let check = false;
-
+// well lets try one more time
 document.getElementById("displayReagente").innerText = arrayReagentes[i];
 
 document.getElementById("btnPos").addEventListener("click", () => {
