@@ -2,7 +2,8 @@
 
 ## O que é?
 
-Este é um app que ajuda biomédicos e outros funcionários de laboratório a identificarem bactérias. É uma versão automatizada da tabela de bioquimismo impressa, que os biomédicos usam como checklist. 
+Este é um app que ajuda biomédicos e outros funcionários de laboratório a identificarem bactérias. É uma versão automatizada da tabela de bioquimismo impressa, que os biomédicos usam como checklist. Você pode usar o aplicativo [clicando aqui.]
+(https://busypink.github.io/bioquimismo/)
 
 Saiba mais [sobre Bioquimismo.](https://pt.wikipedia.org/wiki/An%C3%A1lise_bioqu%C3%ADmica_de_bact%C3%A9rias#:~:text=O%20passo%20final%20para%20a,que%20nos%20parece%20mais%20adequado)
 
